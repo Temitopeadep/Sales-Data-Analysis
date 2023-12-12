@@ -50,17 +50,17 @@ With the Analysis, below Questions were answered
 
 
 ## Result and Findings
-1. Sales  Analysis: Overall sales is 34.49M, Macbook Pro Laptop is overall best selling product with over 8M sales/revenue. AAA batteries has the least selling rate. Tuesdays and Wednesdays are best selling weekdays and December has the highest sales trend by month.
+1. Sales Analysis: Overall sales is 34.49M, MacBook Pro Laptop is overall best selling product with over 8M sales/revenue. AAA batteries has the least selling rate. Tuesdays and Wednesdays are best selling weekdays and December has the highest sales trend by month.
 
-2. Quantity Ordered Analysis:  Overall sum of Quantity ordered as 209.1k. San Fransisco has the higest order in terms of city. AAA Batteries has highest sum of quantity order among the products however it was least proct in terms of sales and revenue, this is because it has the least price ($2.99) among the product price.
+2. Quantity Ordered Analysis: Overall sum of Quantity ordered as 209.1k. San Francisco has the highest order in terms of city. AAA Batteries has highest sum of quantity order among the products however it was least product in terms of sales and revenue, this is because it has the least price ($2.99) among the product price.
 
-3. Price analysis: Overall average price of all products is $184.4, Macbook Pro Laptop is significantly higher than other segment at $1,700 while AAA Batteries is significantlly lower than other products.
+3. Price analysis: Overall average price of all products is $184.4, MacBook Pro Laptop is significantly higher than other segment at $1,700 while AAA Batteries is significantly lower than other products.
 
 ## Recommendation
 - Survey should be carried out to get customer feedback
-- AAA batterings been the product with highest order and least price should be add as discount to product like washine machine, dryer and some other products with low sales turn out
+- AAA batteries been the product with highest order and least price should be add as discount to product like washing machine, dryer and some other products with low sales turn out
 - Draw of gifting items should be done in the area with highest sales order
-- More Macbook outlet should be open in San Fransisco, they are the higher user of Macbook
+- More MacBook outlet should be open in San Francisco, they are the higher user of MacBook
 
 
 
