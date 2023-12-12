@@ -45,6 +45,9 @@ With the Analysis, below Questions were answerd
 
   ## Dashboard
   
+<img width="615" alt="meriskill pg 1" src="https://github.com/Temitopeadep/Sales-Data-Analysis/assets/142262047/1e047fdb-7c66-4bb1-af94-7daad3e5c7a9">
+<img width="609" alt="Meriskill pg 2" src="https://github.com/Temitopeadep/Sales-Data-Analysis/assets/142262047/262bc317-3922-4070-81da-6f25a15289e9">
+
 
 ## Result and Findings
 1. Sales  Analysis: Overall sales is 34.49M, Macbook Pro Laptop is overall best selling product with over 8M sales/revenue. AAA batteries has the least selling rate. Tuesdays and Wednesdays are best selling weekdays and December has the highest sales trend by month.
