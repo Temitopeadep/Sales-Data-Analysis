@@ -28,7 +28,7 @@ During the course of this project, the following were performed
 
 ## Exploratory and Data Analysis
 Exploratory and Data Analysis:
-With the Analysis, below Questions were answerd
+With the Analysis, below Questions were answered
 - Total Revenue
 - Total Quantity Ordered
 - Average Price per Units
